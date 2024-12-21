@@ -1,2 +1,2 @@
-# Python_partice_public
+# Python_pratice_public
 First Repo
