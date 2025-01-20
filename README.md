@@ -1,2 +1,2 @@
-# Python_pratice_public
-First Repo
+# Python_practice_public
+First Repo.... Python from basics
