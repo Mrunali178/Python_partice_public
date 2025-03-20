@@ -1,0 +1,4 @@
+Raising errors prevents unexpected behavior
+Helps in debugging by showing where things go wrong
+Enforces correct input and program flow
+Allows us to handle exceptions properly

@@ -1,0 +1,3 @@
+Harshit,500
+mohit,300
+yash,400

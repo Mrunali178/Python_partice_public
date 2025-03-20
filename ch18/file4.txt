@@ -1,0 +1,3 @@
+Harshit's salary is 500
+mohit's salary is 300
+yash's salary is 400
